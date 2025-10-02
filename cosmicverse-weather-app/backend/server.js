@@ -52,7 +52,7 @@ const indianCities = [
   { name: 'Jaipur', state: 'Rajasthan', lat: 26.9124, lon: 75.7873, coastal: false },
   { name: 'Surat', state: 'Gujarat', lat: 21.1702, lon: 72.8311, coastal: true },
   { name: 'Lucknow', state: 'Uttar Pradesh', lat: 26.8467, lon: 80.9462, coastal: false },
-  { name: 'Kanpur', state: 'Uttar Pradesh', lat: 26.4499, ton: 80.3319, coastal: false },
+  { name: 'Kanpur', state: 'Uttar Pradesh', lat: 26.4499, lon: 80.3319, coastal: false },
   { name: 'Nagpur', state: 'Maharashtra', lat: 21.1458, lon: 79.0882, coastal: false },
   { name: 'Indore', state: 'Madhya Pradesh', lat: 22.7196, lon: 75.8577, coastal: false },
   { name: 'Thane', state: 'Maharashtra', lat: 19.2183, lon: 72.9781, coastal: true },
